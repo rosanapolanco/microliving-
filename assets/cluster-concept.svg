@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 400" role="img" aria-labelledby="title desc"><title id="title">Illustrative cottage cluster</title><desc id="desc">Several compact cottage concepts around shared green space. This is not an approved site plan.</desc><defs><g id="cottage">
+ <path d="M114 492 454 516 670 421 337 398Z" fill="#adc7d1" opacity=".5"/>
+ <path d="M462 294 642 208 642 414 462 500Z" fill="#dbe5e8" stroke="#244859" stroke-width="2"/>
+ <g stroke="#bdcbd0" stroke-width="1.5"><path d="M463 313l178-85"/><path d="M463 333l178-85"/><path d="M463 353l178-85"/><path d="M463 373l178-85"/><path d="M463 393l178-85"/><path d="M463 413l178-85"/><path d="M463 433l178-85"/><path d="M463 453l178-85"/><path d="M463 473l178-85"/></g>
+ <path d="M135 284 300 157 462 294 462 500 135 486Z" fill="#fffdf6" stroke="#244859" stroke-width="2"/>
+ <g stroke="#d7deda" stroke-width="1.5"><path d="M136 307l325 14"/><path d="M136 327l325 14"/><path d="M136 347l325 14"/><path d="M136 367l325 14"/><path d="M136 387l325 14"/><path d="M136 407l325 14"/><path d="M136 427l325 14"/><path d="M136 447l325 14"/><path d="M136 467l325 14"/></g>
+ <path d="M119 287 300 142 476 292 461 308 300 172 141 298Z" fill="#f8faf9" stroke="#244859" stroke-width="2"/>
+ <path d="M300 142 480 56 658 208 476 292Z" fill="#0974ba" stroke="#07578b" stroke-width="2"/>
+ <g stroke="#82b5d4" stroke-width="1.6" opacity=".65"><path d="M312.86 135.86L489.00 285.93"/><path d="M325.71 129.71L502.00 279.86"/><path d="M338.57 123.57L515.00 273.79"/><path d="M351.43 117.43L528.00 267.71"/><path d="M364.29 111.29L541.00 261.64"/><path d="M377.14 105.14L554.00 255.57"/><path d="M390.00 99.00L567.00 249.50"/><path d="M402.86 92.86L580.00 243.43"/><path d="M415.71 86.71L593.00 237.36"/><path d="M428.57 80.57L606.00 231.29"/><path d="M441.43 74.43L619.00 225.21"/><path d="M454.29 68.29L632.00 219.14"/><path d="M467.14 62.14L645.00 213.07"/></g>
+ <path d="M297 142 478 54 486 60 305 149Z" fill="#07578b"/>
+ <path d="M477 292 659 207 659 219 477 304Z" fill="#07578b"/>
+ <path d="M510 319 550 300 550 376 510 395Z" fill="#f0c84d" stroke="#244859" stroke-width="2"/>
+ <path d="M517 324 543 312 543 371 517 383Z" fill="#274a5b"/>
+ <path d="M530 318v58M517 353l26-12" stroke="#d8ecf5" stroke-width="2"/>
+ <path d="M579 286 618 267 618 343 579 362Z" fill="#f0c84d" stroke="#244859" stroke-width="2"/>
+ <path d="M586 291 611 279 611 338 586 350Z" fill="#274a5b"/>
+ <path d="M598 285v59M586 319l25-12" stroke="#d8ecf5" stroke-width="2"/>
+ <path d="M167 338 219 340 219 422 167 420Z" fill="#f0c84d" stroke="#244859" stroke-width="2"/>
+ <path d="M175 347 211 348 211 413 175 412Z" fill="#274a5b"/>
+ <path d="M192 348v64M175 379l36 1" stroke="#cce2eb" stroke-width="2"/>
+ <path d="M271 343 333 346 333 482 271 479Z" fill="#efc64b" stroke="#244859" stroke-width="2"/>
+ <path d="M281 356 322 358 322 417 281 415Z" fill="#274a5b"/>
+ <path d="M302 357v59M281 387l41 2" stroke="#d3e4e8" stroke-width="2"/>
+ <path d="M283 434 320 436 320 465 283 463Z" fill="#e3b337"/>
+ <circle cx="324" cy="428" r="2.5" fill="#244859"/>
+ <path d="M376 349 427 351 427 432 376 430Z" fill="#f0c84d" stroke="#244859" stroke-width="2"/>
+ <path d="M384 357 419 359 419 424 384 422Z" fill="#274a5b"/>
+ <path d="M401 358v65M384 389l35 2" stroke="#cce2eb" stroke-width="2"/>
+ <path d="M128 309 462 324 440 348 102 332Z" fill="#0974ba" stroke="#07578b" stroke-width="2"/>
+ <path d="M102 332 440 348 440 358 102 342Z" fill="#07578b"/>
+ <g stroke="#79adcc" stroke-width="1.5"><path d="M145 309.7l-24 23"/><path d="M169 310.8l-24 23"/><path d="M193 311.9l-24 23"/><path d="M217 313.0l-24 23"/><path d="M241 314.0l-24 23"/><path d="M265 315.1l-24 23"/><path d="M289 316.2l-24 23"/><path d="M313 317.3l-24 23"/><path d="M337 318.4l-24 23"/><path d="M361 319.4l-24 23"/><path d="M385 320.5l-24 23"/><path d="M409 321.6l-24 23"/><path d="M433 322.7l-24 23"/></g>
+ <path d="M116 343 124 343 124 493 116 493Z M436 358 444 358 444 506 436 506Z" fill="#efc64b" stroke="#997b28" stroke-width="1"/>
+ <path d="M100 488 457 504 457 516 100 500Z" fill="#b5c0ba" stroke="#244859" stroke-width="1.5"/>
+ <path d="M228 507 350 513 350 524 220 517Z" fill="#d3d7d0" stroke="#607578" stroke-width="1"/>
+ </g></defs><path d="M35 270 400 80 965 225 600 385Z" fill="#dbe5d6"/><path d="M55 285 402 106 931 237 597 358Z" fill="none" stroke="#faf7ed" stroke-width="26"/><path d="M438 226 529 181 683 221 588 273Z" fill="#b6ccac"/><path d="M489 244 566 207 629 224 550 261Z" fill="#fffdf6"/><use href="#cottage" transform="translate(255 -6) scale(.39)"/><use href="#cottage" transform="translate(487 53) scale(.39)"/><use href="#cottage" transform="translate(47 94) scale(.39)"/><use href="#cottage" transform="translate(277 157) scale(.39)"/><g fill="#638969"><ellipse cx="820" cy="258" rx="34" ry="12"/><ellipse cx="374" cy="357" rx="30" ry="11"/><ellipse cx="145" cy="318" rx="32" ry="10"/></g></svg>
